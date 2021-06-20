@@ -7,7 +7,7 @@ const finalMessage = document.getElementById('final-message');
 
 const fparts = document.querySelectorAll('.figure-part');
 
-const words = ['marvel', 'ironman', 'spiderman', 'captainamerica', 'falcon','blackwidow','hulk','hawkeye','drstrange','captainmarvel','wintersoldier','antman','warmachine','thor','scarletwitch','vision','quicksilver'];
+const words = ['marvel', 'ironman', 'spiderman', 'captainamerica', 'falcon','blackwidow','hulk','hawkeye','drstrange','captainmarvel','wintersoldier','antman','warmachine','thor','scarletwitch','vision','quicksilver','mephisto','wasp','blackpanther','wolverine'];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
