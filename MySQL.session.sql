@@ -1,0 +1,1 @@
+SELECT name FROM superheroes ORDER BY RAND() LIMIT 1;
