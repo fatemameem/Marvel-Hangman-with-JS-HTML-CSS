@@ -1,0 +1,5 @@
+{
+  "name": "Marvel Hangman React",
+  "description": "A modern React refactor of the classic Marvel-themed Hangman game with animations, score tracking, and word guessing features.",
+  "requestFramePermissions": []
+}
