@@ -1,0 +1,35 @@
+export const wordsData = {
+  words: [
+    "marvel",
+    "ironman",
+    "spiderman",
+    "captainamerica",
+    "falcon",
+    "blackwidow",
+    "hulk",
+    "hawkeye",
+    "drstrange",
+    "captainmarvel",
+    "wintersoldier",
+    "antman",
+    "warmachine",
+    "thor",
+    "scarletwitch",
+    "vision",
+    "quicksilver",
+    "mephisto",
+    "wasp",
+    "blackpanther",
+    "wolverine",
+    "thanos",
+    "loki",
+    "gamora",
+    "groot",
+    "star lord",
+    "nebula",
+    "daredevil",
+    "punisher"
+  ]
+};
+
+export default wordsData;
